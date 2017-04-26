@@ -1,0 +1,11 @@
+It is a commercial management of a company that manufactures parts.
+This program will extract the data from the .txt file and place them in several appropriate structures (chained lists or trees) already defined in the base.h file
+If you run you can choose 4 options:
+
+1- a function will display its components and their suppliers
+
+2- a function will display its components, their costs and the total
+
+3- A function displays all the finished compounds of the company
+
+4- if the codes of the compounds are entered and the quantity of production: this function displays the total cost of production
