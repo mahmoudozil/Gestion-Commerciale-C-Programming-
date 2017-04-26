@@ -1,0 +1,12 @@
+C'est une gestion commerciale d'une societé qui fabrique des pièces.
+ce programme va extraire les données des fichier .txt et les place dans plusieurs structures adéquates (liste chainées ou arbres) déjà déclaré dans le fichier base.h
+si on exécute vous pouvez choisir 4 options:
+
+1- une fonction va afficher ses composantes et leurs fournisseurs
+
+2- une fonction va afficher ses composantes, leurs couts et le total
+
+3- une fonction affiche tous les composés finis de l'entreprise
+
+4- si on entre les codes des composés et la quantité de production : cette fonction affiche le cout total de la production
+

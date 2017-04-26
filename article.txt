@@ -1,0 +1,12 @@
+001  compose1           f    000 0
+002  compose2           f    000 0
+003  compose3           f    000 0
+004  compose4           f    000 0
+005  compose5           f    000 0
+006  materieau1         m    001 40
+007  materieau2         m    002 30
+008  materieau3         m    003 25
+009  materieau4         m    004 15
+010  materieau5         m    005 35
+011  materieau6         m    006 12
+012  materieau7         m    007 27
